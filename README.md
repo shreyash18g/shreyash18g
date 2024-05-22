@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django** and **Generative AI**.
 
-- 💬 Ask me about **Machine Learning,Deep Learning,Computer Vision**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
 
 - 📫 How to reach me **shreyashgupta1809@gmail.com**
 
