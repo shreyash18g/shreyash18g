@@ -1,8 +1,7 @@
-[![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
-<h1 align="center">Hi 👋, I'm Shreyash</h1>
+![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<h1>Hi 👋, I'm Shreyash</h1>
 
-
-<h3 align="center">AI/ML Developer</h3>
+<h3>AI/ML Developer</h3>
 
 <p align="center">🚀 Aspiring AI/ML Developer and Data Science Enthusiast 📊 Passionate student dedicated to mastering the realms of Artificial Intelligence, Machine Learning, and Data Science. 🤖📊 Proficient in harnessing the power of Python libraries to create innovative solutions and algorithms that drive meaningful insights from complex data sets. 🐍💡 Equipped with a strong foundation in data structures and algorithms, data visualization is my canvas for storytelling, where I transform raw data into captivating visual narratives, making complex information accessible and engaging to a wider audience. Proficient in advanced Computer Vision techniques, I thrive on solving intricate problems in image processing and pattern recognition. Actively seeking opportunities to collaborate, learn, and contribute to real-world AI and data projects, let's connect and explore the endless possibilities at the intersection of data and intelligence! 🌐🤝 <b>#AI #MachineLearning #DataScience #Python #DataVisualization #ComputerVision #Algorithm #StudentAtHeart.</b></p>
 <br></br>
